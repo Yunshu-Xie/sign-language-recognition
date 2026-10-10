@@ -1,0 +1,13 @@
+{
+    "data_dir": "./dataset/wlasl100",
+    "dictionary": "./dataset/wlasl100/wlasl_100.json",
+    "in_channels": 423,
+    "out_channels": 100,
+    "batch_size": 32,
+    "load_into_ram": true,
+    "epochs": 300,
+    "model_type": "TransformerIsoSLR",
+    "d_model": 128,
+    "nhead": 4,
+    "num_layers": 2
+}

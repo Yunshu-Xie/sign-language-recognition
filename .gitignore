@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+~$*
+dataset/
+slt_tutorials/
+手話感想ー謝雲舒.docx
+手话.pptx
+手话認識期末発表.pdf
+drive-download-*/
